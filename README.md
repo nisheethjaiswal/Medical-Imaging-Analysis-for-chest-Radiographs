@@ -21,7 +21,7 @@ Identifying pathological conditions present in the lungs and providing explainab
 ## 3-ct-scan-classification-for-covid-19
 CT-scan images were used for the identifying the progression patterns of Covid-19 over a period of 14 days period and identifying the conditions and damage caused to the lungs
 
-![Combinations-part1]('Combinations part 1.PNG')
-![Combinations-part2]('Combinations part 2.PNG')
+![Combinations-part1](Combinations-part1.PNG)
+![Combinations-part2](Combinations-part2.PNG)
 
 
