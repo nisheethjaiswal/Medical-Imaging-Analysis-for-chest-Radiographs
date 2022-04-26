@@ -2,6 +2,15 @@
 
 Medical imaging Analysis and classifying for possible predictions using Computer vision along with AI to aid for faster decision making for clinicians providing explanations for the predicted results using Explainable AI (XAI).
 
+Techniques used:
+- CNNs
+- Transfer learning (DenseNet & InseptionResNetv2)
+- Vision Transformers (ViT)
+- Saliency Heatmaps for Interpretations
+
+Vision Transformer using patch images for embeddings
+![ViT](ViT+encoder.PNG)
+
 ## 1-Lungs_Pathological_Condition_Diagnosis
 Identifying pathological conditions present in the lungs and providing explainability using heatmaps.
 
