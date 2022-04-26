@@ -10,6 +10,15 @@ Identifying pathological conditions present in the lungs and providing explainab
 
 ## 2-covid_19_predictions_and_interpretation
 - Identifying Covid-19 patterns and predicting from images and providing explainability with heatmaps.
-- ViT Transformer was used for the analysis 
+- ViT Transformer was used for the analysis splitting the images into patches for studying the patch embeddings.
 
-![patch image](patch image.PNG) ![patches](patches.PNG)
+![patches](patches.PNG)
+
+## 3-ct-scan-classification-for-covid-19
+CT-scan images were used for the identifying the progression patterns of Covid-19 over a period of 14 days period and identifying the conditions and damage caused to the lungs
+
+![21](21.PNG)
+![27](27.PNG)
+
+
+
